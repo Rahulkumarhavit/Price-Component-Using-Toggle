@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins&display=swap');
 *{
     margin: 0;
     padding:0;
@@ -59,14 +59,14 @@ input:checked+.slider::before{
     transform:translateX(26px);
 }
 
-/* .pricing{
+.pricing{
     color:#5b6359;
     display: flex;
     justify-content: center;
     align-items:center;
     padding:50px 0;
 
-} */
+}
 .pricing label{
     margin:0 20px;
 }
